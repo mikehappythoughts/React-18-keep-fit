@@ -1,6 +1,6 @@
 # Keep Fit app with searchable exercises
 
-![Desktop and mobile screenshots of Keep Fit](https://www.mikehappythoughts.co.uk/gitimages/keep_fit.jpg)
+![Desktop and mobile screenshots of Keep Fit](https://www.mikehappythoughts.co.uk/gitimages/keep_fit.jpeg)
 
 ## Description
 
