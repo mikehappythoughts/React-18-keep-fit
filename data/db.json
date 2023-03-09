@@ -1,0 +1,214 @@
+{
+  "exercises": [
+    {
+      "id": "91f82c3d-9f9d-4b8a-82e2-2f22d1b1bfca",
+      "exercise_name": "Push-up",
+      "muscle_exercised": ["Chest", "Shoulders", "Triceps"],
+      "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+      "image_src": "push_ups_m.jpeg"
+    },
+    {
+      "id": "e7b8f861-d334-4d1e-9b1a-c1f0f6c3f6b3",
+      "exercise_name": "Bench-press",
+      "muscle_exercised": ["Chest", "Shoulders", "Triceps"],
+      "video_url": "https://www.youtube.com/watch?v=4T9UQ4FBVXI",
+      "image_src": "bench_press_m.jpeg"
+    },
+    {
+      "id": "f27e1b47-7a8d-4ed5-aaef-4a4f2c8d19ea",
+      "exercise_name": "Pull-up",
+      "muscle_exercised": ["Back", "Biceps"],
+      "video_url": "https://www.youtube.com/watch?v=eGo4IYlbE5g",
+      "image_src": "pull_up_m.jpeg"
+    },
+    {
+      "id": "48a8b3a6-3ec3-4a39-a882-8c9e6b77d6b4",
+      "exercise_name": "Dumbbell-fly",
+      "muscle_exercised": ["Chest", "Shoulders"],
+      "video_url": "https://www.youtube.com/watch?v=eozdVDA78K0",
+      "image_src": "dumbell_fly_m.jpeg"
+    },
+    {
+      "id": "0aa6d8d6-5224-4d4b-9a2f-9a9f7a098afb",
+      "exercise_name": "Shoulder-press",
+      "muscle_exercised": ["Shoulders", "Triceps"],
+      "video_url": "https://www.youtube.com/watch?v=qEwKCR5JCog",
+      "image_src": "shoulder_press_m.jpeg"
+    },
+    {
+      "id": "9a31d88e-496f-4a72-8d80-14d7f843b95d",
+      "exercise_name": "Bicep-curl",
+      "muscle_exercised": ["Biceps"],
+      "video_url": "https://www.youtube.com/watch?v=kwG2ipFRgfo",
+      "image_src": "bicep_curl_m.jpeg"
+    },
+    {
+      "id": "d21a84dc-fc31-4b5e-9cd2-1b0f3485decc",
+      "exercise_name": "Tricep-extension",
+      "muscle_exercised": ["Triceps"],
+      "video_url": "https://www.youtube.com/watch?v=nRiJVZDpdL0",
+      "image_src": "tricep_extention_m.jpeg"
+    },
+    {
+      "id": "e6d072af-206e-4c8d-979d-d78d9650a3a3",
+      "exercise_name": "Chin-up",
+      "muscle_exercised": ["Back", "Biceps"],
+      "video_url": "https://www.youtube.com/watch?v=eGo4IYlbE5g",
+      "image_src": "chin_up_m.jpeg"
+    },
+    {
+      "id": "a501c07d-1b9f-4a7b-92cc-5e5caec536cc",
+      "exercise_name": "Squat",
+      "muscle_exercised": ["Quadriceps", "Glutes", "Hamstrings"],
+      "video_url": "https://www.youtube.com/watch?v=mGvzVjuY8SY",
+      "image_src": "squat_m.jpeg"
+    },
+    {
+      "id": "b94c50df-6144-4d96-9d2e-4b3d6a26f6c3",
+      "exercise_name": "Deadlift",
+      "muscle_exercised": ["Glutes", "Hamstrings", "Lower back"],
+      "video_url": "https://www.youtube.com/watch?v=op9kVnSso6Q",
+      "image_src": "deadlift_m.jpeg"
+    },
+    {
+      "id": "5426a1a7-73b6-487a-a37d-9e326103c61b",
+      "exercise_name": "Leg-press",
+      "muscle_exercised": ["Quadriceps", "Glutes", "Hamstrings"],
+      "video_url": "https://www.youtube.com/watch?v=IZxyjW7MPJQ",
+      "image_src": "leg_press_m.jpeg"
+    },
+    {
+      "id": "4c3d2b2e-1a38-468a-912e-41a85465c53d",
+      "exercise_name": "Lunges",
+      "muscle_exercised": ["Quadriceps", "Glutes", "Hamstrings"],
+      "video_url": "https://www.youtube.com/watch?v=wrwwXE_x-pQ",
+      "image_src": "lunges_m.jpeg"
+    },
+    {
+      "id": "8a52946f-06f9-475c-9799-9c055b07a19d",
+      "exercise_name": "Calf-raise",
+      "muscle_exercised": ["Calves"],
+      "video_url": "https://www.youtube.com/watch?v=eMTy3qylqnE",
+      "image_src": "calf_raise_m.jpeg"
+    },
+    {
+      "id": "9c9b81ca-ebd4-423f-bdc7-c77ca83c50e7",
+      "exercise_name": "Step-up",
+      "muscle_exercised": ["Quadriceps", "Glutes"],
+      "video_url": "https://www.youtube.com/watch?v=WCFCdxzFBa4",
+      "image_src": "step_up_m.jpeg"
+    },
+    {
+      "id": "5c6f5d5a-3b7e-47f2-b942-93f08d23d7c8",
+      "exercise_name": "Leg-curl",
+      "muscle_exercised": ["Hamstrings"],
+      "video_url": "https://www.youtube.com/watch?v=qca__Qgjf1Y",
+      "image_src": "hamstrings_m.jpeg"
+    },
+    {
+      "id": "06a28d98-b225-41ba-8eb1-e0e244cf0a2f",
+      "exercise_name": "Hip-thrust",
+      "muscle_exercised": ["Glutes", "Hamstrings"],
+      "video_url": "https://www.youtube.com/watch?v=SEdqd1n0cvg",
+      "image_src": "hip_thrust_m.jpeg"
+    },
+    {
+      "id": "96d85875-63eb-431f-9026-06e44e1d1291",
+      "exercise_name": "Crunches",
+      "muscle_exercised": ["Abdominals"],
+      "video_url": "https://www.youtube.com/watch?v=Xyd_fa5zoEU",
+      "image_src": "crunches_m.jpeg"
+    },
+    {
+      "id": "0ec0cc06-d51a-456f-9b0a-2a969d281f95",
+      "exercise_name": "Sit-ups",
+      "muscle_exercised": ["Abdominals"],
+      "video_url": "https://www.youtube.com/watch?v=1fbU_MkV7NE",
+      "image_src": "sit_ups_m.jpeg"
+    },
+    {
+      "id": "3b3d7a1f-8a7f-4a04-8717-698c02f8d4c4",
+      "exercise_name": "Russian-twists",
+      "muscle_exercised": ["Abdominals", "Obliques"],
+      "video_url": "https://www.youtube.com/watch?v=wkD8rjkodUI",
+      "image_src": "russian_twists_m.jpeg"
+    },
+    {
+      "id": "8c105fd1-2b2a-4d95-8b3a-23e5b3a5d5f5",
+      "exercise_name": "Plank",
+      "muscle_exercised": ["Abdominals", "Lower back"],
+      "video_url": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+      "image_src": "plank_m.jpeg"
+    },
+    {
+      "id": "d2946626-06cb-43b9-9d1c-51f0b27cb0ee",
+      "exercise_name": "Leg-raises",
+      "muscle_exercised": ["Abdominals", "Hip flexors"],
+      "video_url": "https://www.youtube.com/watch?v=JB2oyawG9KI",
+      "image_src": "leg_raises_m.jpeg"
+    },
+    {
+      "id": "2b2e0913-7de3-463c-b0f3-ba6d9a6f0891",
+      "exercise_name": "Bicycle crunches",
+      "muscle_exercised": ["Abdominals", "Obliques"],
+      "video_url": "https://www.youtube.com/watch?v=Iwyvozckjak",
+      "image_src": "bicycle_crunches_m.jpeg"
+    },
+    {
+      "id": "68b83a95-7e29-4a1d-995d-979c85aa2f2b",
+      "exercise_name": "Side-plank",
+      "muscle_exercised": ["Obliques", "Abdominals"],
+      "video_url": "https://www.youtube.com/watch?v=NXr4Fw8q60o",
+      "image_src": "side_plank_m.jpeg"
+    },
+    {
+      "id": "c39264ee-426d-43f9-9b16-8615223587f3",
+      "exercise_name": "Reverse-crunches",
+      "muscle_exercised": ["Abdominals"],
+      "video_url": "https://www.youtube.com/watch?v=hyv14e2QDq0",
+      "image_src": "reverse_crunches_m.jpeg"
+    },
+    {
+      "id": "2d7cc8a1-78b3-44d3-bd07-58761e65f0a7",
+      "exercise_name": "Lat-pulldowns",
+      "muscle_exercised": ["Back", "Biceps"],
+      "video_url": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+      "image_src": "lat_pulldowns_m.jpeg"
+    },
+    {
+      "id": "8edfb6de-9ba9-4dd6-a7a8-31abf7db13a1",
+      "exercise_name": "Bent-over-rows",
+      "muscle_exercised": ["Back", "Biceps"],
+      "video_url": "https://www.youtube.com/watch?v=QFq5jdwWwX4",
+      "image_src": "bent_over_rows_m.jpeg"
+    },
+    {
+      "id": "a11d33b1-0496-44a6-b369-c29c8a39cbf9",
+      "exercise_name": "Good-mornings",
+      "muscle_exercised": ["Back", "Hamstrings", "Glutes"],
+      "video_url": "https://www.youtube.com/watch?v=vKPGe8zb2S4",
+      "image_src": "good_mornings_m.jpeg"
+    },
+    {
+      "id": "7b9efdd2-74d6-46f2-a7ee-76e0b5363190",
+      "exercise_name": "Supermans",
+      "muscle_exercised": ["Lower back"],
+      "video_url": "https://www.youtube.com/watch?v=pCdIHNVENIE",
+      "image_src": "supermans_m.jpeg"
+    },
+    {
+      "id": "a80a88c2-1a6d-48d8-9b9c-778c6a120a6f",
+      "exercise_name": "Seated-cable-rows",
+      "muscle_exercised": ["Back", "Biceps"],
+      "video_url": "https://www.youtube.com/watch?v=GZbfZ033f74",
+      "image_src": "seated_cable_rows_m.jpeg"
+    },
+    {
+      "id": "d1b996a8-824a-41c3-8363-8021073bdc23",
+      "exercise_name": "T-bar-rows",
+      "muscle_exercised": ["Back", "Biceps"],
+      "video_url": "https://www.youtube.com/watch?v=j3Igk5nyZE4",
+      "image_src": "t_bar_rows_m.jpeg"
+    }
+  ]
+}
