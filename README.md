@@ -12,7 +12,7 @@ React js 18, CSS, Typescript, React Material Ui and easy-peasy state management
 
 ## Documentation
 
-For detailed explanation on how things work, check out the [documentation](https://reactjs.org/).
+For detailed explanation on React, check out the [documentation](https://reactjs.org/).
 
 ## Getting Started
 
