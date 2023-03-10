@@ -13,7 +13,7 @@ import { useStoreState } from '../stores/store';
 const ExerciseDetail = () => {
   const getExerciseDetails = useStoreState((state) => state.getExerciseDetails);
 
-  // id param
+  // selected exercise item id param
   const { id } = useParams();
 
   const defaultExerciseDetails: IExerciseItem = {
