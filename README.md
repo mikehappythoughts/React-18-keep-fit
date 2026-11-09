@@ -1,7 +1,5 @@
 # Keep Fit app with searchable exercises
 
-![Desktop and mobile screenshots of Keep Fit](https://www.mikehappythoughts.co.uk/gitimages/keep_fit.jpeg)
-
 ## Description
 
 The Keep Fit app is an accessible and responsive SPA using the below tech stack.
